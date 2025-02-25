@@ -1,0 +1,9 @@
+# Virtus Configuration File Example
+
+databse:
+  path: "~/.virtus/virtus.db"
+  backup_path: "~/.virtus/backup"
+
+display:
+  date_format: "2006-01-02"
+  time_format: "15:04"
